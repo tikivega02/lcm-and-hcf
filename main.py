@@ -94,8 +94,13 @@ win = Tk()
 win.geometry('620x520')
 win.title('Find LCM AND HCF')
 win.maxsize(620, 520)
-#win.minsize(620, 520)
-#win.iconbitmap(r'img/icon.ico')
+win.minsize(620, 520)
+
+# try:
+win.iconbitmap(r'img/icon.ico')
+# except:
+# 	pass
+	
 bg = PhotoImage(file='img/landscape.png') 
 label = ttk.Label(win, image=bg)
 label.place(relwidth=1, relheight=1)
