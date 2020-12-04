@@ -7,17 +7,23 @@ Find LCM and HCF
 # Run 
 <h3>How to install tkinter</h1>
 <h4>On Linux</h4>
-    ```
-    sudo apt-get install python3-tk
-    python3 main.py
-    ```
+
+```shell
+sudo apt-get install python3-tk
+python3 main.py
+ ```
 
 <h4>On Windows</h4>
-```
-    pip install tkinter
-    python main.py or python3 main.py
-```
 
+```shell
+pip install tkinter
+python main.py
+```
+<h3>Or</h3>
+
+```shell
+python3 main.py
+```
 
 # Screenshot
 <img src="Screenshot/HCF.png" alt="HCF" />
