@@ -12,7 +12,7 @@ Find LCM and HCF
 <h4>On Windows</h4>
     pip install tkinter
 
-#Screenshot
+# Screenshot
 <img src="Screenshot/HCF.png" alt="HCF" />
 <br>
 <img src="Screenshot/LCM.png" alt="HCF" />
